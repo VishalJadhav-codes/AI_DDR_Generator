@@ -16,7 +16,7 @@ st.set_page_config(
 # ---------------------------------------------------
 # SIDEBAR
 # ---------------------------------------------------
-st.sidebar.image("assets\logo.png", width=70)
+st.sidebar.image("assets/logo.png", width=70)
 st.sidebar.title("Real Estate Guard")
 
 st.sidebar.markdown("## 📌 Navigation")
@@ -36,7 +36,7 @@ st.sidebar.markdown("[💻 GitHub](https://github.com/VishalJadhav-codes)")
 col1, col2 = st.columns([1, 8], vertical_alignment="center")
 
 with col1:
-    st.image("assets\logo.png", width=95)
+    st.image("assets/logo.png", width=95)
 
 with col2:
     st.markdown("""
