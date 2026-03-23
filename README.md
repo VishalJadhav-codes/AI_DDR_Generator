@@ -77,6 +77,10 @@ Key outcomes:
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://aiddrgenerator-cxwvwjy9xvzkbyyhgqpjjc.streamlit.app/)
+
 ## 🚀 Future Improvements
 
 - 🤖 Improve model accuracy using deep learning (CNN for image analysis)  
