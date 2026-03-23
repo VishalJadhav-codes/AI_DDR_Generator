@@ -66,13 +66,14 @@ Key outcomes:
 
 ## 📷 Screenshots
 
-> Add screenshots soon
-Examples:
-- Input report interface  
-- Detection results  
-- Generated report sample  
-- Thermal image analysis  
+### 🏠 Home Interface
+![Home](assets/home.png)
 
+### 📥 Input / Upload
+![Input](assets/input.png)
+
+### 🔍 Detection Result
+![Result](assets/Result.png)
 
 ---
 
