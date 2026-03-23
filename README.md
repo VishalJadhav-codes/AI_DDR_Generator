@@ -73,7 +73,7 @@ Key outcomes:
 ![Input](assets/input.png)
 
 ### 🔍 Detection Result
-![Result](assets/Result.png)
+![Result](assets/result.png)
 
 ---
 
